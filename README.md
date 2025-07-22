@@ -1,8 +1,5 @@
 # Job-Postings-Web-Scraper
 A robust web scraper that extracts remote sales and marketing job listings from RemoteOK, designed to showcase clean Python implementation and web scraping skills.
-(https://img.shields.io/badge/Python-3.8%252B-blue
-https://img.shields.io/badge/Selenium-4.0%252B-orange
-https://img.shields.io/badge/Pandas-1.0%252B-brightgreen
 
 A robust web scraper that extracts remote sales and marketing job listings from RemoteOK, designed to showcase clean Python implementation and web scraping skills.
 
